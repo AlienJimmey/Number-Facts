@@ -28,7 +28,7 @@ I always try to add or modify at least one thing in the project.
 
 List of my changes:
 * added a "random number" button that randomly selects a number up to 1000.
-* used git branching work flow to add additional features such as getting facts about dates.
+* used git branching work flow to add additional features.
 
 Links:
 * Link to youtube torial: https://www.youtube.com/watch?v=tUE2Nic21BA
