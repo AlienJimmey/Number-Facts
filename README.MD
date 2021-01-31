@@ -26,13 +26,13 @@ Assets were received from the tutorial's github repo and all their rights rights
 Part of my learning strategy is to not blindly copy/follow along tutorial series projects.
 I always try to add or modify at least one thing in the project.
 
-List of my changes.
-*added a "random number" button that randomly selects a number up to 1000.
-*used git branching work flow to add additional features such as getting facts about dates.
+List of my changes:
+* added a "random number" button that randomly selects a number up to 1000.
+* used git branching work flow to add additional features such as getting facts about dates.
 
 Links:
-*Link to youtube torial: https://www.youtube.com/watch?v=tUE2Nic21BA
-*original tutorial github: N/A
+* Link to youtube torial: https://www.youtube.com/watch?v=tUE2Nic21BA
+* original tutorial github: N/A
 
 
 
